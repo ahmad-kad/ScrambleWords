@@ -11,6 +11,7 @@
 		F6A36B0D2B56334F00CCA7EA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6A36B0C2B56334F00CCA7EA /* ContentView.swift */; };
 		F6A36B0F2B56334F00CCA7EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6A36B0E2B56334F00CCA7EA /* Assets.xcassets */; };
 		F6A36B122B56334F00CCA7EA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6A36B112B56334F00CCA7EA /* Preview Assets.xcassets */; };
+		F6A36B192B5634BC00CCA7EA /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = F6A36B182B5634BC00CCA7EA /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,8 @@
 		F6A36B0C2B56334F00CCA7EA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F6A36B0E2B56334F00CCA7EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F6A36B112B56334F00CCA7EA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F6A36B182B5634BC00CCA7EA /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
+		F6A36B1A2B56522400CCA7EA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +38,7 @@
 		F6A36AFE2B56334F00CCA7EA = {
 			isa = PBXGroup;
 			children = (
+				F6A36B1A2B56522400CCA7EA /* README.md */,
 				F6A36B092B56334F00CCA7EA /* ScrambleWords */,
 				F6A36B082B56334F00CCA7EA /* Products */,
 			);
@@ -53,6 +57,7 @@
 			children = (
 				F6A36B0A2B56334F00CCA7EA /* ScrambleWordsApp.swift */,
 				F6A36B0C2B56334F00CCA7EA /* ContentView.swift */,
+				F6A36B182B5634BC00CCA7EA /* start.txt */,
 				F6A36B0E2B56334F00CCA7EA /* Assets.xcassets */,
 				F6A36B102B56334F00CCA7EA /* Preview Content */,
 			);
@@ -126,6 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F6A36B122B56334F00CCA7EA /* Preview Assets.xcassets in Resources */,
+				F6A36B192B5634BC00CCA7EA /* start.txt in Resources */,
 				F6A36B0F2B56334F00CCA7EA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
